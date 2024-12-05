@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".pptx", ".md"],
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+        "Videos": [".mp4", ".mov", ".avi", ".mkv"],
+        "Music": [".mp3", ".wav", ".flac"],
+        "Archives": [".zip", ".tar", ".gz", ".rar"],
+        "Scripts": [".sh", ".py", ".js", ".rb"],
+        "Others": []
+    },
+    "sort_by_date": true,
+    "date_format": "%Y/%m-%B",
+    "duplicate_handling": "move",  // Options: "move", "delete", "ignore"
+    "duplicate_folder": "Duplicates"
+}
+
